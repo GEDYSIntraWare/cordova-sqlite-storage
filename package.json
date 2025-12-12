@@ -40,9 +40,9 @@
     "prepare-spec": "node scripts/prepareSpec.js"
   },
   "devDependencies": {
-    "coffeescript": "1",
-    "cross-spawn": "^6.0.5",
-    "fs-extra": "^8.1.0",
-    "rimraf": "^3.0.2"
+    "coffeescript": "^2.7.0",
+    "cross-spawn": "^7.0.6",
+    "fs-extra": "^11.3.2",
+    "rimraf": "^6.1.2"
   }
 }
